@@ -1,7 +1,1 @@
-{
-    "name": "FanMa",
-    "link": "https://fanmav.github.io",
-    "icon": "https://fanmav.github.io/favicon/favicon.ico",
-    "desc": "This is a learning notes blog website for FanMa.",
-    "weight": 1
-}
+{"name": "FanMa","link": "https://fanmav.github.io","icon": "https://fanmav.github.io/favicon/favicon.ico","desc": "This is a learning notes blog website for FanMa.","weight": 1}
